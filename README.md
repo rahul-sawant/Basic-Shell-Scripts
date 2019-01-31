@@ -1,2 +1,2 @@
-# HealthAnalysis
-Symptom Checker with Machine Learning
+# Shell Example Programs
+Example Programs for shell scripting
