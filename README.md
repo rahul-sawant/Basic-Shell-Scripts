@@ -1,2 +1,2 @@
-# healthanalysis
+# HealthAnalysis
 Symptom Checker with Machine Learning
