@@ -1,2 +1,1 @@
-# Shell Example Programs
-Example Programs for shell scripting
+# College Project and Scripts...
